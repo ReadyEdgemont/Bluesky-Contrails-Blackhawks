@@ -1,14 +1,14 @@
 
 # recordName
-bluesky-hockey
+blackhawks
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
 # displayName
-Hockey+
+Chicago Blackhawks
 > This is the title of the custom feed. Maximum length is 24 characters.
 
 # description
-You're feed for all things hockey on bluesky! Feed managed by @readyedgemont.bsky.social
+You're feed for all things Blackhawks on bluesky! Feed managed by @readyedgemont.bsky.social
 > This is the description of the feed.
 
 
@@ -19,9 +19,8 @@ You're feed for all things hockey on bluesky! Feed managed by @readyedgemont.bsk
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 - https://bsky.app/profile/capfriendly.bsky.social
-- NHL
-- Hockey
-- "Stanley Cup"
+- Blackhawks
+- Bedard
 
 # safeMode
 > Safe mode limits the total number of API calls coming from Cloudflare.
