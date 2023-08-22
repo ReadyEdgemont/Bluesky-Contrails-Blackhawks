@@ -8,7 +8,7 @@ Chicago Blackhawks
 > This is the title of the custom feed. Maximum length is 24 characters.
 
 # description
-You're feed for all things Blackhawks hockey on bluesky! Feed managed by @readyedgemont.bsky.social
+You're feed for all things Blackhawks hockey on bluesky! #Blackhawks
 > This is the description of the feed.
 
 
